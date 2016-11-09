@@ -1,0 +1,24 @@
+{
+    "name": "dnt_6am_nov16",
+    "version": "1.0.0",
+    "description": "node test package",
+    "main": "inndex.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/proshailendra/dnt-6am-nov16.git"
+    },
+    "keywords": [
+        "node",
+        "test",
+        "package"
+    ],
+    "author": "pro.shailendra@gmail.com",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/proshailendra/dnt-6am-nov16/issues"
+    },
+    "homepage": "https://github.com/proshailendra/dnt-6am-nov16#readme"
+}
