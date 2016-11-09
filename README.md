@@ -13,7 +13,7 @@ npm install dnt_6am_nov16
 
 ```javascript
 const dnt = require("dnt_6am_nov16");
-var number= dnt(2345);
+var number= dnt.numberToLocale(2345);
 console.log(number);
 
 output
@@ -22,4 +22,5 @@ output
 
 ## Version History
 
-1. Intial Release 1.0.0 - Nov 9, 2016 
+1. Intial Release 1.0.0 - Nov 9, 2016
+2. Update  1.0.1 - Nov 9, 2016  

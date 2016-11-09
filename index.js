@@ -1,5 +1,7 @@
-const numToLocale = (number, locale) => {
-    return number.toLocaleString(locale);
+var util = {
+    numberToLocale: (number, locale) => {
+        return number.toLocaleString(locale);
+    }
 };
 
-module.exports = numToLocale;
+module.exports = util;

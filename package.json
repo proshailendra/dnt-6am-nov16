@@ -1,8 +1,8 @@
 {
     "name": "dnt_6am_nov16",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "node test package",
-    "main": "inndex.js",
+    "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
